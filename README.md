@@ -1,5 +1,4 @@
 # crawl_articles
-ARTIFICIAL_INTELLIGENCE.py:<\n>
-需要修改的地方：<\n>
-self.download_dir<\n>
-self.url<\n>
+ARTIFICIAL_INTELLIGENCE.py需要修改的地方：<\br>
+self.download_dir<\br>
+self.url<\br>
